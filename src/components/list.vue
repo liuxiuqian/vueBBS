@@ -17,14 +17,12 @@
         <img class="user_small_avatar" :src="smallImg">
         <span class="last_active_time">{{ time }}</span>
       </a>
-      <router-link to="/detail">
-        <div class="topic_title_wrapper">
-          <span :class="styles">{{ text }}</span>
-          <a class="topic_title" :title="title">
-            {{ title }}
-          </a>
-        </div>
-      </router-link>
+      <div class="topic_title_wrapper">
+        <span :class="styles">{{ text }}</span>
+        <a class="topic_title" :title="title">
+          {{ title }}
+        </a>
+      </div>
     </div>
   </div>
 </template>
