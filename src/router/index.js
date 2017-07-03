@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-
+import detail from '../view/Detail'
 
 Vue.use(Router)
 
@@ -11,6 +11,10 @@ const routes = [
     meta: {
       title:'home'
     }
+  },
+  {
+    path: '/detail',
+    component: detail
   }
 ]
 
