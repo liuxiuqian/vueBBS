@@ -1,0 +1,10 @@
+{
+  "goods": [
+    { "replies": 69,"visits":100,"styles":"put_top","text":"置顶", "time":"2小时前", "title": "基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用", "imglo": "https://avatars3.githubusercontent.com/u/9276376?v=3&s=120","smallImg":"//gravatar.com/avatar/1ddb6cba8482e554cc857d2e4d6eb396?size=48" },
+    { "replies": 79,"visits":100,"styles":"topiclist-tab","text":"分享", "time":"2小时前", "title": "基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用", "imglo": "https://avatars3.githubusercontent.com/u/9276376?v=3&s=120","smallImg":"//gravatar.com/avatar/1ddb6cba8482e554cc857d2e4d6eb396?size=48" },
+    { "replies": 19,"visits":200,"styles":"put_top","text":"置顶", "time":"2小时前", "title": "基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用", "imglo": "https://avatars3.githubusercontent.com/u/9276376?v=3&s=120","smallImg":"//gravatar.com/avatar/1ddb6cba8482e554cc857d2e4d6eb396?size=48" },
+    { "replies": 59,"visits":500,"styles":"topiclist-tab","text":"分享", "time":"2小时前", "title": "基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用", "imglo": "https://avatars3.githubusercontent.com/u/9276376?v=3&s=120","smallImg":"//gravatar.com/avatar/1ddb6cba8482e554cc857d2e4d6eb396?size=48" },
+    { "replies": 57,"visits":1000,"styles":"topiclist-tab","text":"问答", "time":"2小时前", "title": "基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用", "imglo": "https://avatars3.githubusercontent.com/u/9276376?v=3&s=120","smallImg":"//gravatar.com/avatar/1ddb6cba8482e554cc857d2e4d6eb396?size=48" },
+    { "replies": 30,"visits":800,"styles":"put_top","text":"置顶", "time":"1天前", "title": "基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用", "imglo": "https://avatars3.githubusercontent.com/u/9276376?v=3&s=120","smallImg":"//gravatar.com/avatar/1ddb6cba8482e554cc857d2e4d6eb396?size=48" }
+  ]
+}
