@@ -2,7 +2,7 @@
   <div class="list">
     <div class="cell">
       <a class="user_avatar pull-left">
-        <img :src="imglo" title="ab8512">
+        <img :src="imglo" :title="imglo">
       </a>
       <span class="reply_count pull-left">
       <span class="count_of_replies" title="回复数">
@@ -17,14 +17,15 @@
         <img class="user_small_avatar" :src="smallImg">
         <span class="last_active_time">{{ time }}</span>
       </a>
-      <router-link to="/detail">
-        <div class="topic_title_wrapper">
-          <span :class="styles">{{ text }}</span>
+      <div class="topic_title_wrapper">
+        <span :class="styles">{{ text }}</span>
+        <router-link to="/detail">
           <a class="topic_title" :title="title">
             {{ title }}
           </a>
-        </div>
-      </router-link>
+        </router-link>
+      </div>
+
     </div>
   </div>
 </template>
