@@ -12,7 +12,7 @@
           </form>
           <ul class="nav pull-right">
             <li><a href="/">首页</a></li>
-            <li><a href="http://doc.vue-js.com/">VUE 2.0</a></li>
+            <li><a href="/">VUE 2.0</a></li>
             <li><a href="/getstart">参考资料</a></li>
             <li><a href="/api">API</a></li>
             <li><a href="/about" target="">关于</a></li>
